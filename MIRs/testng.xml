@@ -4,7 +4,7 @@
   <test name="Test">
     <classes>
       <class name="testPackage.FirstTest2"/>
-      <class name="testPackage.FirstTest"/>
+      <!--class name="testPackage.FirstTest"/-->
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
